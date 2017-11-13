@@ -1,0 +1,85 @@
+c:\users\eddiel\documents\visual studio 2012\Projects\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.exe.config
+c:\users\eddiel\documents\visual studio 2012\Projects\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.exe
+c:\users\eddiel\documents\visual studio 2012\Projects\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.pdb
+c:\users\eddiel\documents\visual studio 2012\Projects\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.csprojResolveAssemblyReference.cache
+c:\users\eddiel\documents\visual studio 2012\Projects\Punto  de Venta\Punto  de Venta\obj\Debug\Punto__de_Venta.Form1.resources
+c:\users\eddiel\documents\visual studio 2012\Projects\Punto  de Venta\Punto  de Venta\obj\Debug\Punto__de_Venta.Properties.Resources.resources
+c:\users\eddiel\documents\visual studio 2012\Projects\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.csproj.GenerateResource.Cache
+c:\users\eddiel\documents\visual studio 2012\Projects\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.exe
+c:\users\eddiel\documents\visual studio 2012\Projects\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.pdb
+C:\Users\EDDIEL\documents\visual studio 2012\Projects\Punto  de Venta\Punto  de Venta\obj\Debug\Punto__de_Venta.Form2.resources
+C:\Users\EDDIEL\documents\visual studio 2012\Projects\Punto  de Venta\Punto  de Venta\obj\Debug\Punto__de_Venta.RegistroEmpleado.resources
+C:\Users\Joaquin Navarrete\Desktop\Evidencias UTC\Integradora\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.exe.config
+C:\Users\Joaquin Navarrete\Desktop\Evidencias UTC\Integradora\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.exe
+C:\Users\Joaquin Navarrete\Desktop\Evidencias UTC\Integradora\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.pdb
+C:\Users\Joaquin Navarrete\Desktop\Evidencias UTC\Integradora\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.Form1.resources
+C:\Users\Joaquin Navarrete\Desktop\Evidencias UTC\Integradora\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.Form2.resources
+C:\Users\Joaquin Navarrete\Desktop\Evidencias UTC\Integradora\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.Properties.Resources.resources
+C:\Users\Joaquin Navarrete\Desktop\Evidencias UTC\Integradora\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.RegistroEmpleado.resources
+C:\Users\Joaquin Navarrete\Desktop\Evidencias UTC\Integradora\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.csproj.GenerateResource.Cache
+C:\Users\Joaquin Navarrete\Desktop\Evidencias UTC\Integradora\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.exe
+C:\Users\Joaquin Navarrete\Desktop\Evidencias UTC\Integradora\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.pdb
+C:\Users\Joaquin Navarrete\Desktop\Evidencias UTC\Integradora\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.csprojResolveAssemblyReference.cache
+D:\Nueva carpeta\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.exe.config
+D:\Nueva carpeta\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.exe
+D:\Nueva carpeta\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.pdb
+D:\Nueva carpeta\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.exe
+D:\Nueva carpeta\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.pdb
+D:\Nueva carpeta\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.csprojResolveAssemblyReference.cache
+D:\Nueva carpeta\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.Form1.resources
+D:\Nueva carpeta\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.Form2.resources
+D:\Nueva carpeta\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.Properties.Resources.resources
+D:\Nueva carpeta\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.RegistroEmpleado.resources
+D:\Nueva carpeta\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.csproj.GenerateResource.Cache
+F:\Nueva carpeta\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.exe.config
+F:\Nueva carpeta\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.exe
+F:\Nueva carpeta\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.pdb
+C:\Users\EDDIEL\Desktop\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.exe.config
+C:\Users\EDDIEL\Desktop\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.exe
+C:\Users\EDDIEL\Desktop\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.pdb
+C:\Users\EDDIEL\Desktop\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.exe
+C:\Users\EDDIEL\Desktop\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.pdb
+C:\Users\EDDIEL\Desktop\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.csprojResolveAssemblyReference.cache
+C:\Users\EDDIEL\Desktop\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.Form1.resources
+C:\Users\EDDIEL\Desktop\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.Form2.resources
+C:\Users\EDDIEL\Desktop\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.Properties.Resources.resources
+C:\Users\EDDIEL\Desktop\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.RegistroEmpleado.resources
+C:\Users\EDDIEL\Desktop\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.csproj.GenerateResource.Cache
+D:\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.exe.config
+D:\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.exe
+D:\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.pdb
+D:\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.exe
+D:\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.pdb
+D:\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.csprojResolveAssemblyReference.cache
+D:\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.Form1.resources
+D:\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.Form2.resources
+D:\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.Properties.Resources.resources
+D:\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.RegistroEmpleado.resources
+D:\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.csproj.GenerateResource.Cache
+D:\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.FormAgregarEmpleados.resources
+G:\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.exe.config
+G:\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.exe
+G:\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.pdb
+G:\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.exe
+G:\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.pdb
+G:\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.csprojResolveAssemblyReference.cache
+G:\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.Form1.resources
+G:\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.Form2.resources
+G:\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.FormAgregarEmpleados.resources
+G:\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.Properties.Resources.resources
+G:\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.RegistroEmpleado.resources
+G:\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.csproj.GenerateResource.Cache
+D:\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.FormEmpleados.resources
+F:\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.exe.config
+F:\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.exe
+F:\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.pdb
+F:\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.csprojResolveAssemblyReference.cache
+F:\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.Form1.resources
+F:\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.Form2.resources
+F:\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.FormAgregarEmpleados.resources
+F:\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.FormEmpleados.resources
+F:\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.Properties.Resources.resources
+F:\Punto  de Venta\Punto  de Venta\obj\Debug\PuntodeVenta.RegistroEmpleado.resources
+F:\Punto  de Venta\Punto  de Venta\obj\Debug\Punto  de Venta.csproj.GenerateResource.Cache
+F:\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.exe
+F:\Punto  de Venta\Punto  de Venta\bin\Debug\Punto  de Venta.pdb
